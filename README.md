@@ -3,12 +3,12 @@ After being contracted for a SharePoint On premesis to SharePoint Online migrati
 
 This app was created to update hyperlinks in docxs in bulk.
 
-USAGE:
+*USAGE*  
 Create a targets.txt fiole in the application directy, the targets.txt file contains a comma seperated list of target,destination
 
-Exmaple targets.txt file
-https://www.bing.com.au,https://www.google.com.au
-https://www.myspace.com,https://www.facebook.com
+Exmaple targets.txt file  
+https://www.bing.com.au,https://www.google.com.au  
+https://www.myspace.com,https://www.facebook.com  
 
 The above targets.txt file will replace all hyperlinks pointing to bing with google, and all hyperlinks pointing to myspace with facebook.
 
