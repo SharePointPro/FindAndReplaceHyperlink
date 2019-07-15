@@ -4,6 +4,7 @@ After being contracted for a SharePoint On premesis to SharePoint Online migrati
 This app was created to update hyperlinks in docxs in bulk.
 
 *USAGE*
+
 Create a targets.txt fiole in the application directy, the targets.txt file contains a comma seperated list of target,destination
 
 Exmaple targets.txt file
